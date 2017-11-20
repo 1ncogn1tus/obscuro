@@ -23,11 +23,11 @@ The rest is self-explanatory.
 
 ## Built With
 
-* [Geany]
+* Geany
 
 ## Authors
 
-* **Emanuel Gjini** - *Initial work* - [PurpleBooth](https://github.com/1ncogn1tus)
+* **Emanuel Gjini** - *Initial work* - [1ncogn1tus](https://github.com/1ncogn1tus)
 
 ## License
 
