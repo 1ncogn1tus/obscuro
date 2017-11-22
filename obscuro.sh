@@ -63,6 +63,8 @@ if [ -n "$f" ] && [ -n "$i" ]
     fi
  if [ -z "$t" ]
   then
+   echo -n "\n\033[24;0m\033[1;31m[!] Obscuro...gateway is PWNED !\033[0m\n"
+   echo -n "\033[37mCtrl+C to stop \033[0m\n"
    arpspoof -i $i $g 2>/dev/null
   else
    echo -n "\n\033[24;0m\033[1;31m[!] Obscuro...network is PWNED !\033[0m\n"
